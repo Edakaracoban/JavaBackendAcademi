@@ -23,8 +23,6 @@ public class Arrays {
             System.out.println(sayi);
         }
 
-
-
 //        ArrayMethod();
 //        ArrayMethod1();
 //       int[] sayilar= ArrayMethod4();
@@ -35,9 +33,7 @@ public class Arrays {
 //      String[] yeniCity=ArrayMethod2();
 //        java.util.Arrays.sort(yeniCity, Collections.reverseOrder());//büyükten küçüğe
 //        java.util.Arrays.sort(yeniCity);//küçükten büyüğe
-//
-//
-//
+
 //        for (String temp : yeniCity){
 //          System.out.println(temp);
         //  }
